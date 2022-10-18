@@ -46,4 +46,7 @@
 
 ![Inestment_percent_GDP](https://user-images.githubusercontent.com/59423092/196347146-9afbfb0e-74d4-407e-b2e3-2dfced28fb64.png)
 
+![Investment_percent_GDP for G7](https://user-images.githubusercontent.com/59423092/196348543-1236f776-a908-4a4a-9104-5303f94354c4.png)
+
+
 
