@@ -42,5 +42,6 @@
 
 ### The data for this analysis was gotten from Database_Gapminder_World
 
+![Inestment_percent_GDP](https://user-images.githubusercontent.com/59423092/196347146-9afbfb0e-74d4-407e-b2e3-2dfced28fb64.png)
 
 
