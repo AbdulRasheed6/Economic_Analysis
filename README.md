@@ -5,12 +5,12 @@
 
 #### Research Questions
 
->> 1a. Countries within organisation and  regions with the highest and lowest inflation in the last 23 years.
+> 1a. Countries within organisation and  regions with the highest and lowest inflation in the last 23 years.
 
->> 1b. Which country within the the selected Sub Saharan countries have the highest foreign debt
+> 1b. Which country within the the selected Sub Saharan countries have the highest foreign debt
 
 
->> 1c.  Countries within the selected organisations and regions with the highest and lowest  Trade Balance
+> 1c.  Countries within the selected organisations and regions with the highest and lowest  Trade Balance
 
 
 > Research Questions (2)
