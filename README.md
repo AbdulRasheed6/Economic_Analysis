@@ -14,30 +14,30 @@
 
 
 > Research Questions (2)
->> 2a. Does inflation has any effect on Foreign debt
+> 2a. Does inflation has any effect on Foreign debt
 
->> 2b. Do countries with high foreign debt  have high Gross capital formation
+> 2b. Do countries with high foreign debt  have high Gross capital formation
 
->> 2c. Is there any substantial  effect of foreign debt on Trade balance
+> 2c. Is there any substantial  effect of foreign debt on Trade balance
 
->> 2d. Does inflation have any effect or impact on Gross capital formation
+> 2d. Does inflation have any effect or impact on Gross capital formation
 
->> 2e. Countries and regions with the highest Trade Balance
+> 2e. Countries and regions with the highest Trade Balance
 
->> 2f. Effect of Gross capital formation on  Trade Balance
+> 2f. Effect of Gross capital formation on  Trade Balance
 
 
 > Research Questions (3):
 
->> 3a. Does the relationship between inflation  and Foreign_debt vary with countries
+> 3a. Does the relationship between inflation  and Foreign_debt vary with countries
 
->> 3b. Do all countries involved in the analysis follow the same relationship that exist with Trade_balance and Gross capital formation
+> 3b. Do all countries involved in the analysis follow the same relationship that exist with Trade_balance and Gross capital formation
 
->> 3c. Is the impact of inflation on Gross capital formation the same for all countries involved in the analysis
+> 3c. Is the impact of inflation on Gross capital formation the same for all countries involved in the analysis
 
->> 3d. Does inflation have a general effect on Foreign_debt 
+> 3d. Does inflation have a general effect on Foreign_debt 
 
->> 3e. Is the effect of Foreign_debt on Trade_balance the same for all countries
+> 3e. Is the effect of Foreign_debt on Trade_balance the same for all countries
 
 
 ### The data for this analysis was gotten from Database_Gapminder_World
